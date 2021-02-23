@@ -2,31 +2,29 @@
 
 ![banner](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/bannersmall.png)
 
-![conclusion](https://github.com/PACESTEM/STEMHackathonDec2020/blob/main/conclusion.jpg)
-
 ## On the Pace web site
 
   * https://www.pace.edu/seidenberg/seidenhack
 
 ## Final presentations
   
-  * https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59c6c3c9-a8da-4d96-a6d8-ac890143cbce
+  * TBD
   
 ## Organization
 
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
   * Speakers: Dean Jonathan Hill, Dr. Lauren Birney, Prof. Julie Gauthier, Dr. Stephen Gosnell
-  * Organization: Jill Olimpieri, Melanie Madera, Vicente Gomez
-  * Mentors: Yiokling	Chu, Jack	Egan, Briana	Figueroa, Elan Fisher, Gio	Abou Jaoude, Mark	Anthony De Castro, George Lopez, John	Brilhart, Radiy	Matveev, Akshay	Shirsat, Indira Priyadarshini Singamsetti, Ronaldo	Simbana, Ibrahima	Ndiaye
+  * Organization: Jill Olimpieri
+  * Mentors: 
 
 ## Schedule
 
-The schedule is available [here](https://bit.ly/2VkAGrO).
+The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MBm6g7LCoFWPCSte0xA8u1s4m37CS_kjd3MDBE/edit?usp=sharing).
 
 ## Surveys
 
-  * [Exit survey](https://bit.ly/seidenhack202exitsurvey)
-  * [Entry survey]( https://bit.ly/seidenhack2020entrysurvey)
+  * [Exit survey](https://bit.ly/bopstudy_stem-camp)
+  * [Entry survey]( https://bit.ly/bop-stem-camp-post)
   
 ## Tools
 
@@ -46,17 +44,17 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
     * [Video 2](https://www.youtube.com/watch?v=0hikoCvM3oc&feature=youtu.be)
   * Show your phone on your screen with [Vysor](https://www.vysor.io/)
     
-* Slack https://slack.com/seidenhack2020 
-
+* Slack https://seidenhackfeb2021.slack.com
+* 
 * Zoom rooms
 
-  * Main Room Open Space https://pace.zoom.us/j/93336234289
+  * Main Room Open Space https://pace.zoom.us/j/91837429293
 
-  * Mobile App Dev Open Space https://pace.zoom.us/j/99853930432
+  * Mobile App Dev Open Space https://pace.zoom.us/j/93334384122
 
-  * Game Dev Open Space https://pace.zoom.us/j/99737179892
+  * Game Dev Open Space https://pace.zoom.us/j/97424937695
 
-  * Final Presentation Open Space https://pace.zoom.us/j/96883371265
+  * Final Presentation Open Space TBD
   
   * The password was sent to you by email and Slack
 
@@ -64,7 +62,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ### Presentations
 
-* Dr. J. Stephen Gosnell, Baruch College and Graduate Center, City University of New York. [Oysters and Apps: Using Technology to Inform and Manage](https://docs.google.com/presentation/d/1dhpejGG8HmXtLmuVXwrUyEAPPCEXho65_cwQdbSDlds/edit?usp=sharing)
+* Dr. J. Stephen Gosnell, Baruch College and Graduate Center, City University of New York. 
 
 ### Billion Oyster Project
 
@@ -82,10 +80,8 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
 
 ### Design Thinking
 
-* Icebreaker [Around the world in 30 minutes](https://app.mural.co/t/nycdesignfactory1093/m/nycdesignfactory1093/1606854430253/0aca98f85e1d9dd274a4a71efea14b035e516af1)
-* Brainstorming 
-   * [Slides](https://docs.google.com/presentation/d/18rDtfC5Vhfyxhsy8h1IkdcGlIVLq9ldzoFVSvKjTOdQ/edit?usp=sharing)
-   * [Workbook](https://docs.google.com/presentation/d/1Sgq3FGRrQThIkexwynuEfodJZlkzFlL4xw_O4vK9FVQ/edit?usp=sharing)
+* Icebreaker 
+* Brainstorming
 
 ### Demos (3 minutes)
 
@@ -96,7 +92,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
     * Users
     * Technologies
     * Demo the features of the app/game
-    * Talk about your experience in the hackathon
+    * Experience in the hackathon
   
   * To post on Slack:
     * 2-3 sentences describing the app/game
@@ -105,7 +101,7 @@ The schedule is available [here](https://bit.ly/2VkAGrO).
     * Game: link
     * App: apk file
    
-  * All projects will be on the Pace University web site.
+  * All projects will be posted on the Pace University web site.
 
 ## Projects
 
