@@ -1,6 +1,6 @@
 # STEM Hackathon Feb 2021
 
-![banner](https://github.com/PACESTEM/STEMHackathonDec2021/blob/main/bannersmall.png)
+![banner](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/bannersmall.png)
 
 ## On the Pace web site
 
