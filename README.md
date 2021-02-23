@@ -21,7 +21,7 @@
 
 The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MBm6g7LCoFWPCSte0xA8u1s4m37CS_kjd3MDBE/edit?usp=sharing).
 
-## Surveys
+## Surveys (NSF Research)
 
   * [Exit survey](https://bit.ly/bopstudy_stem-camp)
   * [Entry survey]( https://bit.ly/bop-stem-camp-post)
@@ -44,8 +44,7 @@ The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MB
     * [Video 2](https://www.youtube.com/watch?v=0hikoCvM3oc&feature=youtu.be)
   * Show your phone on your screen with [Vysor](https://www.vysor.io/)
     
-* Slack https://seidenhackfeb2021.slack.com
-* 
+* Slack https://seidenhackfeb2021.slack.com 
 * Zoom rooms
 
   * Main Room Open Space https://pace.zoom.us/j/91837429293
