@@ -15,7 +15,7 @@
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
   * Speakers: Dean Jonathan Hill, Dr. Lauren Birney, Prof. Julie Gauthier, Dr. Stephen Gosnell
   * Organization: Jill Olimpieri
-  * Mentors: 
+  * Mentors: Marty	Roger, Nicholas	Wong, Elan	Fisher, Briana	Figueroa, George	Lopez, Mark Anthony	De Castro, Tiandra	Lall, RushikeshNage, Akshay Shirsat, Emma	Hilts. David Zalewski, Alejandro	Gonzalez, Annet John, Natalie Garcia, Krishika	Jain	
 
 ## Schedule
 
