@@ -79,7 +79,7 @@ The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MB
 
 ### Design Thinking
 
-* Icebreaker 
+* [Icebreaker](https://app.mural.co/t/nycdesignfactory1093/m/nycdesignfactory1093/1614200587240/1f94cb1bbb21a27351353f97f2eb83fa0559743e)
 * Brainstorming
 
 ### Demos (3 minutes)
