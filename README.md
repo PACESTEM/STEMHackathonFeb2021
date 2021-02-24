@@ -23,8 +23,8 @@ The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MB
 
 ## Surveys (NSF Research)
 
-  * [Exit survey](https://bit.ly/bopstudy_stem-camp)
   * [Entry survey]( https://bit.ly/bop-stem-camp-post)
+  * [Exit survey](https://bit.ly/bopstudy_stem-camp)
   
 ## Tools
 
