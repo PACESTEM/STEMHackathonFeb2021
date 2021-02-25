@@ -61,7 +61,7 @@ The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MB
 
 ### Presentations
 
-* Dr. J. Stephen Gosnell, Baruch College and Graduate Center, City University of New York. 
+* Dr. J. Stephen Gosnell, Baruch College and Graduate Center, City University of New York. [Oysters and Apps: Using Technology to Inform and Manage](https://docs.google.com/presentation/d/1dhpejGG8HmXtLmuVXwrUyEAPPCEXho65_cwQdbSDlds/edit?usp=sharing)
 
 ### Billion Oyster Project
 
