@@ -19,16 +19,22 @@
 **Play the games!**
 
 [Hungry, Hungry Oysters!](https://kaylizl.itch.io/hungry-hungry-oysters)
+
 ![team1](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team1s.png)
 
 [Oyster Run](https://elanfisher.itch.io/oyster-run)
+
 ![team2](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team2s.png)
 
 [Floppy Oysters](https://blxae.itch.io/floppy-oysters)
+
 ![team3](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team3s.png)
 
 [!Oyster Collection](https://erikhanson.itch.io/oyster-collection)
+
 ![team4](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team4s.png)
+
+**See the apps!**
 
 ![team6](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team6s.png)
 ![team8](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team8s.png)
