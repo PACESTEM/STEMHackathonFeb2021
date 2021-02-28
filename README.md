@@ -135,7 +135,3 @@ The schedule is available [here](https://docs.google.com/spreadsheets/d/1NR7N2MB
    
   * All projects will be posted on the Pace University web site.
 
-## Projects
-
-Check the Pace website https://www.pace.edu/seidenberg/seidenhack
-
