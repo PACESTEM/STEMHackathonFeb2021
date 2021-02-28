@@ -13,7 +13,21 @@
 ## Summary
 
 ![summary](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/smallsummary.png)
-  
+
+## Projects
+
+![team1](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team1s.png)
+![team2](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team2s.png)
+![team3](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team3s.png)
+![team4](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team4s.png)
+
+![team6](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team6s.png)
+![team8](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team8s.png)
+![team9](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team9s.png)
+![team11](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team11s.png)
+![team12](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team12s.png)
+![team13](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/img/team13s.png)
+
 ## Organization
 
   * Teaching: Dr. Christelle Scharff (mobile), Prof. Carmine Guida (game), Prof. Dhruvil Gandhi (design thinking)
