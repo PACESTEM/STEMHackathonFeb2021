@@ -8,7 +8,11 @@
 
 ## Final presentations
   
-  * TBD
+  * [Recording](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7bbb81af-d90f-4594-b688-acdd013434c7)
+
+## Summary
+
+![summary](https://github.com/PACESTEM/STEMHackathonFeb2021/blob/main/smallsummary.png)
   
 ## Organization
 
